@@ -48,7 +48,6 @@ class Login : AppCompatActivity() , LoginInterface {
             }
         }
 
-
     }
     override fun onLogin(email: String, password: String) {
 

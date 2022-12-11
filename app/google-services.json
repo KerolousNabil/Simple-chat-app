@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92897112271",
+    "project_id": "chatting-app-e0192",
+    "storage_bucket": "chatting-app-e0192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92897112271:android:6e422cae5279baf74d47ba",
+        "android_client_info": {
+          "package_name": "com.example.simplechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92897112271-0qgg7ohk9eb53un0920kq13tafs13hls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-2_vP3repA7Pl73iBCQsZyi_FayKhOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92897112271-0qgg7ohk9eb53un0920kq13tafs13hls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
